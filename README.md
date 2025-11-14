@@ -15,11 +15,11 @@
 We're a **100% remote** technology company founded in Nagpur, India, specializing in cloud transformation, AI integration, and modern DevOps practices. Our distributed team of experts across **12 countries** helps businesses accelerate their digital transformation.
 
 ### 📊 By The Numbers
-- **247+** Clients Worldwide
-- **532+** Projects Delivered  
-- **58** Expert Team Members
-- **98%** Client Satisfaction
-- **12** Countries Represented
+- **10+** Clients Worldwide
+- **25+** Projects Delivered  
+- **3** Expert Team Members
+- **100%** Client Satisfaction
+- **3** Countries Represented
 
 ## 🛠️ Our Expertise
 
