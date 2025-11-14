@@ -41,13 +41,6 @@ We're a **100% remote** technology company founded in Nagpur, India, specializin
 - 🛡️ **Security & Compliance**
 - 🔄 **Workflow Automation**
 
-## 👥 Leadership Team
-
-| Role | Name | Location |
-|------|------|----------|
-| CEO & Founder | Sushant Sonbarse | Nagpur, India 🇮🇳 |
-| CTO & Co-Founder | Jay Likhare | Nagpur, India 🇮🇳 |
-| CFO & Co-Founder | Prathamesh Bhujade | Nagpur, India 🇮🇳 |
 
 ## 🌍 Remote-First Culture
 
